@@ -1,3 +1,4 @@
+ HEAD
 # Habitly — Local Habit Tracker
 
 A responsive React + JSX habit tracker. All data is saved in this browser's local storage; there is no backend and no account.
@@ -35,3 +36,7 @@ Habitly stores data in local storage for the browser and origin where it is used
 - The sample habits are starter examples; delete them or use them as a template.
 - Habits begin counting from their creation date.
 - Mood notes are available after selecting a mood for that day.
+=======
+# Habitly
+A simple habit tracker with daily reminders, mood tracking, and insights.
+ 97248a526c86d4dad33ad1de9004b970e6dc7a3e
